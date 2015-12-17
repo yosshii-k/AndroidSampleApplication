@@ -18,5 +18,4 @@ deployment:
   master:
     branch: master
     commands:
-      - ls -la
       - ./gradlew assembleDebug
